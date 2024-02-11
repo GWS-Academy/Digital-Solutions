@@ -12,3 +12,10 @@ body{
     font-family: sans-serif;
 
 }
+body {
+    background: url('background.jpg') no-repeat center center fixed;
+   
+    background-size: cover;
+    
+    background-color: #f0f0f0;
+}
